@@ -14,8 +14,6 @@ function scalePlayerFrame()
 end
 
 frame:SetScript("OnEvent", function(self, event, addon)
-  print(event)
-
   if event == "PLAYER_ENTERING_WORLD" then
     -- Stupid game frame is super large, wtf why?
     GameMenuFrame:SetScale(0.8)
