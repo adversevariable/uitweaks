@@ -1,0 +1,11 @@
+﻿## Interface: 110000
+## Title: UI Tweaks by |cFF69CCF0AdverseVariable|r
+
+## Notes: Various tweaks to the UI
+
+## Author: AdverseVariable
+## Version: 1.0.0
+## Dependencies:
+## SavedVariables:
+
+Core.lua
